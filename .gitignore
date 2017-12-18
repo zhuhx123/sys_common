@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.settings
+.classpath
+.project
+e_framework/target
+e_system_common/target
+/e_framework/target
+/e_system_common/target
